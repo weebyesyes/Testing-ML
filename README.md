@@ -13,4 +13,4 @@ More specifically, this pipeline:
 - trains separate models for `Tg`, `FFV`, `Tc`, `Density`, and `Rg`,
 - uses cross-validation and holdout blending to improve generalization.
 
-I also experimented with a graph neural network (GNN) pipeline, and the final submission averaged predictions from the descriptor-based XGBoost pipeline and the GNN ensemble.
+Also experimented with a graph neural network (GNN) pipeline, and the final submission averaged predictions from the descriptor-based XGBoost pipeline and the GNN ensemble.
